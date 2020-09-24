@@ -1,0 +1,38 @@
+body{
+  text-align: center;
+  margin: auto;
+  padding: 20px;
+  background-image: radial-gradient(white,#E3FEDD,#A5FCE1,#A5E3FC);
+}
+h1{
+  font-family: serif;
+  color: #832A0C;
+}
+h2{
+  font-family: sans-serif;
+  color: #453398;
+}
+h3{
+font-family: sans-serif;
+  color: #453398;
+    }
+
+.t1{
+  background-color: #FDF9E1;
+  margin: auto;
+}
+#i10{
+  color: #012D1B;
+  padding: 30px;
+}
+#i12{
+  color: #092242;
+  padding: 30px;
+}
+
+#img1{
+  width: 150px;
+  border-style: outset;
+  margin: 40px;
+  border-radius: 20%;
+}
